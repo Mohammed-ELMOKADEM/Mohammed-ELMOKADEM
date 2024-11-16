@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a dedicated second-year Master's student pursuing a degree in Data Sciences and Intelligent Systems, with a primary focus on software engineering. My passion lies in developing innovative software solutions that harness the power of data and intelligent technologies to create real-world impact
-
+I'm Mohammed EL MOKADEM a software engineer with a strong foundation in data science gained through my academic journey. I thrive on creating software solutions and excel in harnessing data to drive innovation. With a knack for rapid adaptation, I eagerly tackle new challenges and embrace emerging technologies. My objective is to continually advance my expertise and make meaningful contributions to impactful projects. For a detailed overview of my skills, please refer to the Skills section below.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-elmokadem) 
