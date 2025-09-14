@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm Mohammed EL MOKADEM a software engineer with a strong foundation in data science gained through my academic journey. I thrive on creating software solutions and excel in harnessing data to drive innovation. With a knack for rapid adaptation, I eagerly tackle new challenges and embrace emerging technologies. My objective is to continually advance my expertise and make meaningful contributions to impactful projects. For a detailed overview of my skills, please refer to the Skills section below.
+Hi, I’m Mohammed EL MOKADEM!
+I build things that make life easier. As a software engineer, I specialize in crafting smart, efficient, and user-friendly applications using Java and Angular. My curiosity for technology keeps me constantly exploring new ways to build innovative and practical solutions.
+
+I love tackling challenges, learning new technologies, and working on projects that make a difference. Whether it’s improving efficiency, enhancing user experiences, or building something innovative, I’m always ready to dive in.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-elmokadem) 
